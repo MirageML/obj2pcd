@@ -3,6 +3,7 @@
 #ifndef OBJLOADER_H
 #define OBJLOADER_H
 
+#include <string.h>
 #include <vector>
 #include <iostream>
 #include <stdio.h>
